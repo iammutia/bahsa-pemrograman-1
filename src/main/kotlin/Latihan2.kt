@@ -11,3 +11,16 @@ fun main () {
     print("Pekerjaan kamu adalah $pekerjaan dan alamat kamu $alamat")
 
 }
+
+//Pertemuan2
+    var namaLengkap: String = "Mutia Azzahra"
+    //Variabel yang kosong harus disebutkan tipe datanya
+    var alamat: String
+    alamat = "Yogyakarta"
+    //Variabel yang memiliki isi boleh tidak disebutkan tipe
+    datanya
+    var umur = 19
+    println(namaLengkap)
+    println(alamat)
+    println(umur)
+}
